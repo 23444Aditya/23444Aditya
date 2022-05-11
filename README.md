@@ -11,7 +11,7 @@ A Business Intelligence Developer, passionate about Data Science 📊, AI and ML
 This repo will keep updating as i progress, so STAY TUNED
 
 * 🌍  I'm based in Pune, India
-* 🧠  Currently I'm learning Data Science
+* 🧠  Currently I'm learning Data Science and Data Analytics (NPTEL)
 * 🤝  I'm open to collaborating on Projects based on Data Visualization (Power BI, Tableau), Data Science (Pandas, Numpy, Matplotlib, EDA), AI and ML
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/adityanarayan2)
 * ✉️  You can contact me at [aditya.kt97@gmail.com](mailto:aditya.kt97@gmail.com)
