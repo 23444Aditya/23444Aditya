@@ -4,15 +4,15 @@ Hi there <img src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/
 I am Aditya Narayan
 ===============================
 
-BI Developer | AI and ML enthusiast
------------------------------------
+BI Developer | Data Engineer | AI and ML enthusiast
+----------------------------------------------------
 
-A Business Intelligence Developer, passionate about Data Science 📊, AI and ML. I love to explore and learn about new things🔎. I strongly support for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖.
+A Business Intelligence Developer, Data engineer, passionate about Data Science 📊, AI and ML. I love to explore and learn about new things🔎. I strongly support for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖.
 This repo will keep updating as i progress, so STAY TUNED
 
-* 🌍  I'm based in Pune, India
-* 🧠  Currently I'm learning Data Science and Data Analytics (NPTEL)
-* 🤝  I'm open to collaborating on Projects based on Data Visualization (Power BI, Tableau), Data Science (Pandas, Numpy, Matplotlib, EDA), AI and ML
+* 🌍  I'm based in Hyderabad, India
+* 🧠  Currently I'm learning Data engineering tools (Snowflake, Kafka, Airflow), Cloud technologies (Azure, GCP, AWS) and many more.
+* 🤝  I'm open to collaborating on Projects based on Data Visualization (Power BI, Tableau), Data Science (Pandas, Numpy, Matplotlib, EDA), Data engineering (Python scirpting).
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/adityanarayan2)
 * ✉️  You can contact me at [aditya.kt97@gmail.com](mailto:aditya.kt97@gmail.com)
 
@@ -46,6 +46,7 @@ This repo will keep updating as i progress, so STAY TUNED
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
 
 
 
