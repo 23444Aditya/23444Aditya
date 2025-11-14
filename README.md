@@ -24,8 +24,8 @@ This repo will keep updating as i progress, so STAY TUNED
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/master/icons/python.svg" width="40" height="40" /> &nbsp;
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/master/icons/git.svg" width="70" height="40" /> &nbsp;
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/master/icons/linux-tux.svg" width="40" /> &nbsp;
-	<img title="linux" alt="SAS" src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/master/icons/SAS_logo_horiz.svg.png" width="200" /> &nbsp;
-	<img title="linux" alt="PySpark" src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/master/icons/Databricks-with-PySpark.jpg" width="200" /> &nbsp;
+	<img title="SAS" alt="SAS" src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/master/icons/SAS_logo_horiz.svg.png" width="100" /> &nbsp;
+	<img title="PySpark" alt="PySpark" src="https://raw.githubusercontent.com/23444Aditya/Aditya-Narayan/master/icons/Databricks-with-PySpark.jpg" width="100" /> &nbsp;
 </p>
   
 ### Socials
@@ -46,5 +46,6 @@ This repo will keep updating as i progress, so STAY TUNED
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
 
 
